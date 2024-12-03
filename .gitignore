@@ -2,7 +2,11 @@ Machine-Learning/cached/
 Machine-Learning/catboost_info/
 Machine-Learning/.ipynb_checkpoints/
 Deep-Learning/logs/
-Deep-Learning/celebA/
+Deep-Learning/datasets/
 Deep-Learning/output/
-Deep-Learning/bricks/
+Deep-Learning/models/
+Deep-Learning/checkpoints/
 Deep-Learning/.ipynb_checkpoints/
+Deep-Learning/tokens/
+Deep-Learning/media/
+LinAlg-Practicing/.ipynb_checkpoints/
